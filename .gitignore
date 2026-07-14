@@ -1,0 +1,39 @@
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs, caches and local configuration
+*.log
+*.tmp
+*.temp
+.env
+.env.*
+!.env.example
+*.local
+.repopilot-backup/
+
+# Archives and generated output
+*.zip
+*.rar
+*.7z
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+dist/
+build/
+*.egg-info/
